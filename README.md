@@ -1,4 +1,4 @@
-# Ecommerce: Fullstack application
+# Ecommerce: Fullstack application 💳
 **Ecommerce FS** 📚  
 _Aplicación ecommerce con sus correspondientes "acciones" usuales._  
 Lista de libros  
