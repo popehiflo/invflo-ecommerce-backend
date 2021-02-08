@@ -1,5 +1,5 @@
 -- -----------------------------------------------------
--- Create user - MySQL Community Server 8.0.23
+-- Create new MySQL Server 8.0.23 user for our app 
 -- -----------------------------------------------------
 CREATE USER 'popehifloecommerce'@'localhost' IDENTIFIED BY 'popehifloecommerce';
 GRANT ALL PRIVILEGES ON * . * TO 'popehifloecommerce'@'localhost';
