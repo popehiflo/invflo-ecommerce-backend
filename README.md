@@ -1,12 +1,15 @@
 # Ecommerce: Fullstack application 💳
 **Ecommerce FS** 📚  
 _Aplicación ecommerce con sus correspondientes "acciones" usuales._  
-Lista de libros  
-Carrito de compras ()  
-Inicio de sesion  
-...  
+Lista de Productos  
+Descripcion/Vista de cada Producto   
+Agregar/Quitar productos del Carrito de compras  
+Seguiemiento del Carrito de compras  
+Inicio/Cierre de Sesión  
+Lista Ordenes de Compra de Usuarios   
+...   
+
 The frontend and backend will comunicate using a REST API  
-and also on the backend we'll have a database setup  
 
 #### Backend: 
     Java y JS (Spring Boot y NodeJS)
@@ -23,9 +26,13 @@ _Estas instrucciones te permitirán obtener una copia del proyecto en funcionami
 * [Microsoft Windows](install-angular-tools/ms-windows/install-ms-windows.md)
 
 ## Construido con 🛠️
-* [MySQL 8](https://dev.mysql.com/downloads/mysql/) - 
+### Backend Java:
+* [MySQL 8](https://dev.mysql.com/downloads/mysql/) - Mi RDBMS preferido
 * [Java](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html) - Java SE Development Kit 8
-* [Spring](https://spring.io/) - El framework web usado
+* [Java]() - Java 11
+* [Spring](https://spring.io/) - El framework web usado   
+    Spring Data JPA Repositories   
+    Spring Data REST
 * [Maven](https://maven.apache.org/) - Manejador de dependencias
 
 
