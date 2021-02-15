@@ -9,6 +9,9 @@ import { Product } from '../commons/product';
 })
 export class ProductService {
 
+  // Por defecto Spring DATA REST solo retorna la primera pagina con 20 items
+  // Debemos enviar el tamanio de pagina para 100 items (?size=100)
+  // http://localhost:8080/api/products?size=100
   private baseUrl = 'http://localhost:8080/api/products';
 
   constructor(private httpClient: HttpClient) { }
