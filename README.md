@@ -16,31 +16,25 @@ The frontend and backend will comunicate using a REST API
 #### Frontend: 
     JS (Angular 11 y React 17)
 
-## Comenzando 🚀
-_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
-
-* [Linux](install-angular-tools/linux/install-linux.md)
-
-* [Mac](install-angular-tools/mac/install-mac.md)
-
-* [Microsoft Windows](install-angular-tools/ms-windows/install-ms-windows.md)
-
 ## Construido con 🛠️
 ### Backend Java:
 * [MySQL 8](https://dev.mysql.com/downloads/mysql/) - Mi RDBMS preferido
-* [Java](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html) - Java SE Development Kit 8
-* [Java]() - Java 11
+* [Java 11](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) - Java SE Development Kit 11
 * [Spring](https://spring.io/) - El framework web usado   
+    Spring Boot  
     Spring Data JPA Repositories   
     Spring Data REST
 * [Maven](https://maven.apache.org/) - Manejador de dependencias
 
-
-
 ## Codigo Fuente 📁
-* [Backend NodeJS](server-nodejs)
-* [Backend Spring Boot](server-springboot)
+### Backend
+* [Backend NodeJS](backend/server-nodejs)
+* [Backend Spring Boot](backend/server-springboot/ecommerce)
+### Frontend
+* [Frontend Angular](frontend/client-angular/ecommerce-angular)
 
+## Comenzando 🚀
+_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
 ## Licencia 📄  
    
       
