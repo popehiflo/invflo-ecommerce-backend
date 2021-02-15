@@ -1,0 +1,15 @@
+<div class="main-content">
+  <div class="section-content section-content-p30">
+    <div class="row">
+      <!-- Por defecto Spring DATA REST solo retorna la primera pagina con 20 items -->
+      <div *ngFor="let itemProduct of products" class="col-md-3">
+        <div class="product-box">
+          <img src="{{itemProduct.imageUrl}}" alt="{{itemProduct.name}}" class="img-responsive">
+          <h1>{{itemProduct.name}}</h1>
+          <div class="price">{{itemProduct.unitPrice | currency:'USD'}}</div>
+          <a href="#" class="primary-btn">Add to cart</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
