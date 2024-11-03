@@ -1,0 +1,14 @@
+ ___            _____ _
+|_ _|_ ____   _|  ___| | ___
+ | || '_ \ \ / / |_  | |/ _ \
+ | || | | \ V /|  _| | | (_) |
+|___|_| |_|\_/ |_|   |_|\___/
+
+ ${application.title} ${application.version}
+ ${application.description}
+ ${application.url}
+ ${application.author}
+  ${application.author.name}
+  ${application.author.email}
+
+ Powered by Spring Boot ${spring-boot.version}
