@@ -1,0 +1,9 @@
+2024-11-03 10:45:36.303 [restartedMain] INFO  i.g.p.i.InvfloEcommerceBackendApplication - Starting InvfloEcommerceBackendApplication using Java 21.0.2 with PID 4788 (G:\popehiflo\Projects\InvFlo-ecommerce\invflo-ecommerce-backend\target\classes started by poolp in G:\popehiflo\Projects\InvFlo-ecommerce\invflo-ecommerce-backend)
+2024-11-03 10:45:36.304 [restartedMain] INFO  i.g.p.i.InvfloEcommerceBackendApplication - The following 1 profile is active: "dev"
+2024-11-03 10:45:40.597 [restartedMain] INFO  i.g.p.i.InvfloEcommerceBackendApplication - Started InvfloEcommerceBackendApplication in 5.171 seconds (process running for 6.43)
+2024-11-03 10:47:08.754 [restartedMain] INFO  i.g.p.i.InvfloEcommerceBackendApplication - Starting InvfloEcommerceBackendApplication using Java 21.0.2 with PID 4788 (G:\popehiflo\Projects\InvFlo-ecommerce\invflo-ecommerce-backend\target\classes started by poolp in G:\popehiflo\Projects\InvFlo-ecommerce\invflo-ecommerce-backend)
+2024-11-03 10:47:08.755 [restartedMain] INFO  i.g.p.i.InvfloEcommerceBackendApplication - The following 1 profile is active: "dev"
+2024-11-03 10:47:09.709 [restartedMain] INFO  i.g.p.i.InvfloEcommerceBackendApplication - Started InvfloEcommerceBackendApplication in 0.991 seconds (process running for 95.543)
+2024-11-03 10:47:13.372 [restartedMain] INFO  i.g.p.i.InvfloEcommerceBackendApplication - Starting InvfloEcommerceBackendApplication using Java 21.0.2 with PID 4788 (G:\popehiflo\Projects\InvFlo-ecommerce\invflo-ecommerce-backend\target\classes started by poolp in G:\popehiflo\Projects\InvFlo-ecommerce\invflo-ecommerce-backend)
+2024-11-03 10:47:13.372 [restartedMain] INFO  i.g.p.i.InvfloEcommerceBackendApplication - The following 1 profile is active: "dev"
+2024-11-03 10:47:14.120 [restartedMain] INFO  i.g.p.i.InvfloEcommerceBackendApplication - Started InvfloEcommerceBackendApplication in 0.793 seconds (process running for 99.954)
